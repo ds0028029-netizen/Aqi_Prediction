@@ -1,0 +1,1 @@
+AQI Monitoring and Prediction System is a web-based application that monitors air pollution levels and provides Air Quality Index (AQI) information. It helps users understand air quality conditions, analyze pollution levels, and create awareness about environmental health.
